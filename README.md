@@ -3,8 +3,8 @@ A Swift-based iOS Application that uses card-like cells for minimalistic and eas
 
 Here are some screenshots:
 
-![Alt text](/Screenshots/Screenshot_1.png?raw=true){:height="50%" width="50%"}
+![Alt text](/Screenshots/Screenshot_1.png?raw=true)
 
-![Alt text](/Screenshots/Screenshot_2.png?raw=true){:height="50%" width="50%"})
+![Alt text](/Screenshots/Screenshot_2.png?raw=true)
 
-![Alt text](/Screenshots/Screenshot_3.png?raw=true){:height="50%" width="50%"}
+![Alt text](/Screenshots/Screenshot_3.png?raw=true)
