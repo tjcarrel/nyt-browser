@@ -3,8 +3,8 @@ A Swift-based iOS Application that uses card-like cells for minimalistic and eas
 
 Here are some screenshots:
 
-![Alt text](/Screenshots/Screenshot_1.png?raw=true "First presented with the most popular articles of the week")
+![Alt text](/Screenshots/Screenshot_1.png?raw=true width=290)
 
-![Alt text](/Screenshots/Screenshot_2.png?raw=true "Custom detail view controller once article is touched")
+![Alt text](/Screenshots/Screenshot_2.png?raw=true width=290)
 
-![Alt text](/Screenshots/Screenshot_3.png?raw=true "Users can search The New York Time's article archive")
+![Alt text](/Screenshots/Screenshot_3.png?raw=true width=290)
