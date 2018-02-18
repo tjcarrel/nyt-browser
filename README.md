@@ -1,2 +1,10 @@
 # Timely
-A Swift-based iOS Application that uses card-like cells for minimalistic and easy browser of articles from the New York Times. User are presented with the Most Popular articles from the past week, and can search The New York Time's article archive using a keyword search. Utilizes The New York Time's API and the following cocoapods: AlamoFire, SwiftyJSON, Presentr.
+A Swift-based iOS Application that uses card-like cells for minimalistic and easy browsing of articles from the New York Times. User are presented with the Most Popular articles from the past week, and can search The New York Time's article archive using a keyword search. Clicking on a card presents a custom detail view controller that contains a blurb of the article and a button to open up the respective web page. Utilizes The New York Time's API and the following cocoapods: AlamoFire, SwiftyJSON, Presentr.
+
+Here are some screenshots:
+
+![Alt text](/Screenshots/Screenshot_1.jpg?raw=true "First presented with the most popular articles of the week")
+
+![Alt text](/Screenshots/Screenshot_2.jpg?raw=true "Custom detail view controller once article is touched")
+
+![Alt text](/Screenshots/Screenshot_3.jpg?raw=true "Users can search The New York Time's article archive")
