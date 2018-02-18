@@ -3,9 +3,9 @@ A Swift-based iOS Application that uses card-like cells for minimalistic and eas
 
 ## Screenshots
 Users are first presented with the most popular articles of the week:
-<img src=://github.com/tjcarrel/nyt-browser/blob/master/Screenshots/Screenshot_1.png  width=290 />
+<img src=https://github.com/tjcarrel/nyt-browser/blob/master/Screenshots/Screenshot_1.png  width=290 />
 Once an article is selected, a custom detail view controller is presented which includes a button to the article:
-<img src=:https://github.com/tjcarrel/nyt-browser/blob/master/Screenshots/Screenshot_2.png  width=290 />
+<img src=https://github.com/tjcarrel/nyt-browser/blob/master/Screenshots/Screenshot_2.png  width=290 />
 Users can also search The New York Time's article detabase:
 <img src=https://github.com/tjcarrel/nyt-browser/blob/master/Screenshots/Screenshot_3.png  width=290 />
 
